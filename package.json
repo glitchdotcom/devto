@@ -1,0 +1,23 @@
+{
+  "name": "markdown-webpage",
+  "version": "0.0.1",
+  "description": "Automatically create a web page from markdown",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "showdown": "^1.7.1"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "markdown"
+  ]
+}
