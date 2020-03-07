@@ -1,7 +1,7 @@
 Glitch on Dev.to
 =================
 
-This is a guide for writing blog posts for the [Glitch org on Dev.to](https://dev.to/glitch/)
+This is a guide for writing blog posts for the [Glitch org on Dev.to](https://dev.to/glitch/). Testing. 
 
 ## Content on Dev.to
 Basic standards:
