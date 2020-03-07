@@ -4,7 +4,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: repo-sync
-      uses: melissamcewen/git-sync@v1
+      uses: melissamcewen/git-sync@v2.0.0
       env:
         SOURCE_REPO: "https://github.com/glitchdotcom/devto.git"
         SOURCE_BRANCH: "master"
