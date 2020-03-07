@@ -8,8 +8,7 @@ jobs:
       env:
         SOURCE_REPO: "https://github.com/glitchdotcom/devto.git"
         SOURCE_BRANCH: "master"
-        DESTINATION_REPO: "https://${ secrets.glitch_git_token }:@api.glitch.com/git/witty-silk-thief"
+        DESTINATION_REPO: "https://${{secrets.glitch_git_token}}:@api.glitch.com/git/witty-silk-thief"
         DESTINATION_BRANCH: "master"
-        USERNAME: ${{ secrets.glitch_git_token }} 
       with:
         args: $SOURCE_REPO $SOURCE_BRANCH $DESTINATION_REPO $DESTINATION_BRANCH
