@@ -24,12 +24,16 @@ Ideas<sub>1</sub>:
 - New Glitch features
 - If you had to make a choice about a tool or framework recently, how did you decide?
 
-
+## Team
+- Editor: Melissa McEwen
+- Copyeditors: Ryan Khosravi
+- Advisor: Margarita Noriega
+- Tech reviewers: various members of the engineering team as needed
 
 ## Writing your post
 
 ### Proposal
-Create a Clubhouse story using the Dev.to template. Assign to Melissa. We'll work with you on topic and due date. 
+Create a Clubhouse story using the Dev.to template. Assign to the editor. We'll work with you on topic and due date. 
 
 ### Outline
 If you already have a process that works for you, go for it! Otherwise I strongly recommend writing a post outline and submitting it to Melissa for review. You can do this on the Clubhouse story. 
@@ -44,12 +48,17 @@ After your draft is ready:
 - assign to Melissa
 
 ### Feedback
-For the feedback process we'll give you big picture pointers on the structure and content of your piece. We will not directly edit your piece at this stage. After preparing Feedback Melissa will reassign the story to you. When you incorporate the feedback, please reassign to Melissa for review. 
+For the feedback process we'll give you big picture pointers on the structure and content of your piece. We will not directly edit your piece at this stage. After preparing feedback the editor will reassign the story to you. When you incorporate the feedback, please reassign to the editor for review. 
+
+
+#### Technical Review 
+The editor may add an additional reviewer for highly technical subjects if they are outside their experitise.
 
 ### Copyediting
-At this stage, put your post into Dev.to and add any formatting and code blocks you'd like. Assign back to Melissa. 
+At this stage, put your post into Dev.to and add any formatting and code blocks you'd like. Assign back to the editor. 
 
 We'll make minor copy edits (spelling, grammar, formatting etc) directly, add UTM params to your links, and add images if you haven't. 
+
 
 ### Ready to post!
 Next we'll workshop Tweets and social media images. Feel free to leave this to us. When we publish we'll promote on our Dev Twitter and the homepage. 
