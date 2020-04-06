@@ -41,7 +41,7 @@ If you already have a process that works for you, go for it! Otherwise I strongl
 ### Drafting
 You're welcome to use whatever tools work for you. I strongly recommend using a tool like [Hemingway](http://www.hemingwayapp.com/), which encourages concise engaging writing. Make sure you follow the checklist in the Appendix. 
 
-Drafts can be submitted via Google Docs or whatever tool you like to write in. At this point don't worry about embeds, pictures or any other formatting.
+Drafts should be submitted as Markdown via PR at [devto-posts](https://github.com/glitchdotcom/devto-posts). At this point don't worry about embeds, pictures or any other formatting.
 
 After your draft is ready:
 - add a comment to the Clubhouse card with a link to your draft
