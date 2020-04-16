@@ -1,7 +1,7 @@
 Glitch on Dev.to
 =================
 
-This is a guide for writing blog posts for the [Glitch org on Dev.to](https://dev.to/glitch/)
+This is a guide for writing blog posts for the [Glitch org on Dev.to](https://dev.to/glitch/). Testing. 
 
 ## Content on Dev.to
 Basic standards:
@@ -24,7 +24,11 @@ Ideas<sub>1</sub>:
 - New Glitch features
 - If you had to make a choice about a tool or framework recently, how did you decide?
 
-
+## Team
+- Editor: Melissa McEwen
+- Copyeditors: Ryan Khosravi
+- Advisor: Margarita Noriega
+- Tech reviewers: various members of the engineering team as needed
 
 ## Writing your post
 
@@ -37,23 +41,32 @@ If you already have a process that works for you, go for it! Otherwise I strongl
 ### Drafting
 You're welcome to use whatever tools work for you. I strongly recommend using a tool like [Hemingway](http://www.hemingwayapp.com/), which encourages concise engaging writing. Make sure you follow the checklist in the Appendix. 
 
-Drafts can be submitted via Google Docs or whatever tool you like to write in. At this point don't worry about embeds, pictures or any other formatting.
+Drafts should be submitted as Markdown via pull request at [devto-posts](https://github.com/glitchdotcom/devto-posts). So for example my post about Testing I would create a new file called test.md, add my post draft, and create a branch. Then submit a pull request for that branch to master. If you're new to GitHub, Melissa can help you with a personalized tutorial.
+
+At this point don't worry about embeds, pictures or any other formatting.
 
 After your draft is ready:
 - add a comment to the Clubhouse card with a link to your draft
 - assign to Melissa
 
+### Automated feedback
+When you submit a pull request on [devto-posts](https://github.com/glitchdotcom/devto-posts) you'll get some automated checks via GitHub Actions. You can see the results in the "checks" area of the Pull Request.
+- [Vale](https://errata-ai.github.io/vale/) looks for common mistakes and gives some totally optional writing advice. 
+- [Link Checker](https://github.com/marketplace/actions/link-checker) visits the links in your post to make sure they work. 
+
 ### Feedback
-For the feedback process we'll give you big picture pointers on the structure and content of your piece. We will not directly edit your piece at this stage. After preparing Feedback Melissa will reassign the story to you. When you incorporate the feedback, please reassign to Melissa for review. 
+For the feedback process we'll give you big picture pointers on the structure and content of your piece. We will not directly edit your piece at this stage. After preparing feedback the editor will reassign the Pull Request and story to you. When you incorporate the feedback, please reassign to Melissa for review. 
+
+#### Technical Review 
+The editor may add an additional reviewer for highly technical subjects if they are outside their experitise.
 
 ### Copyediting
-At this stage, put your post into Dev.to and add any formatting and code blocks you'd like. Assign back to Melissa. 
+At this stage, put your post into Dev.to and add any formatting and code blocks you'd like. Assign back to the editor. 
 
-We'll make minor copy edits (spelling, grammar, formatting etc) directly, add UTM params to your links, and add images if you haven't. 
+We'll add UTM params to your links, and add images if you haven't. We'll also update the post in the [devto-posts](https://github.com/glitchdotcom/devto-posts) repo to make sure the links are checked. 
 
 ### Ready to post!
 Next we'll workshop Tweets and social media images. Feel free to leave this to us. When we publish we'll promote on our Dev Twitter and the homepage. 
-
 
 
 ## Appendix
