@@ -61,7 +61,7 @@ For the feedback process we'll give you big picture pointers on the structure an
 The editor may add a reviewer for highly technical subjects if they are outside their experitise.
 
 ### Copyediting
-At this stage, put your post into Dev.to and add any formatting and code blocks you'd like. Assign back to the editor. 
+At this stage, put your post into Dev.to in the Glitch org (see appendix) and add any formatting and code blocks you'd like. Assign back to the editor. 
 
 We'll add UTM params to your links, and add images if you haven't. We'll also update the post in the [devto-posts](https://github.com/glitchdotcom/devto-posts) repo to make sure the link checker runs.  
 
@@ -71,7 +71,8 @@ Next we'll workshop Tweets and social media images. Feel free to leave this to u
 
 ## Appendix
 ### Joining the Dev.to Glitch org 
-TBD
+To add posts to the Glitch org on Dev.to you'll need to join it. Sign up for the Dev.to account if you don't have one and DM Melissa on Slack to join. 
+
 ### Writing checklist
 - Introduction
   - a clear "what's this post about" sentence that tells the reader what they'll learn if they read on. 
