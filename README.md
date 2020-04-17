@@ -89,7 +89,7 @@ TBD
  ### Glitch boilerplate
  
 ```
-_Need more power? [Boost your Glitch apps for improved performance!](https://glitch.com/pricing?utm_medium=weblink&utm_source=dev.to&utm_campaign=handbook&utm_content=dev) _
+_[Give your Glitch apps superpowers - keep them awake, lift rate limits, and get more memory and disk space.](https://glitch.com/pricing?utm_medium=weblink&utm_source=dev.to&utm_campaign=handbook&utm_content=dev)_
 ```
 
 ----
