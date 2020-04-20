@@ -89,7 +89,7 @@ TBD
  ### Glitch boilerplate
  
 ```
-_We're launching some exciting new features on Glitch real soon. [Be the first to know.](https://glitch.com/coming-soon?utm_medium=weblink&utm_source=dev.to&utm_campaign=blog&utm_content=dev)_
+_[Give your Glitch apps superpowers - keep them awake, lift rate limits, and get more memory and disk space.](https://glitch.com/pricing?utm_medium=weblink&utm_source=dev.to&utm_campaign=handbook&utm_content=dev)_
 ```
 
 ----
