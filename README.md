@@ -79,7 +79,7 @@ We do not have a strict code review process or standards, but we like to see:
 - well-commented code
 - a README.md in all Glitch apps
 - files named in a way that will make sense I.E. "feedparser.js" rather than "file1.js"
-
+- a license (MIT for now, more info TBD)
 
 ### Joining the Dev.to Glitch org 
 TBD
