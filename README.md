@@ -41,13 +41,11 @@ If you already have a process that works for you, go for it! Otherwise I strongl
 ### Drafting
 You're welcome to use whatever tools work for you. I strongly recommend using a tool like [Hemingway](http://www.hemingwayapp.com/), which encourages concise engaging writing. Make sure you follow the checklist in the Appendix.
 
-Submit drafts as Markdown via pull request at [devto-posts](https://github.com/glitchdotcom/devto-posts). For example my post about Testing I would create a new file called test.md, add my post draft, and create a branch. Then submit a pull request for that branch to master. If you're new to GitHub, Melissa can help you with a personalized tutorial.
+Submit drafts as Markdown via pull request at [devto-posts](https://github.com/glitchdotcom/devto-posts) and make sure it's [associated with the Clubhouse ticket](https://help.clubhouse.io/hc/en-us/articles/360023113972-How-do-I-associate-a-branch-to-a-Story-). For example my post about Testing I would create a new file called test.md, add my post draft, and create a branch. Then submit a pull request for that branch to master and in the description I would reference the Clubhouse story like `[ch1234]`. If you're new to GitHub, Melissa can help you with a personalized tutorial.
 
 At this point don't worry about embeds, pictures or any other formatting.
 
-After your draft is ready:
-- add a comment to the Clubhouse card with a link to your draft
-- assign to Melissa
+After your draft is ready assign the PR to Melissa to review. 
 
 ### Automated feedback
 When you submit a pull request on [devto-posts](https://github.com/glitchdotcom/devto-posts) you'll get some automated checks via GitHub Actions. You can see the results in the "checks" area of the Pull Request.
