@@ -86,15 +86,16 @@ To add posts to the Glitch org on Dev.to you'll need to join it. Sign up for the
 
 ### Writing checklist
 - Introduction
-  - a clear "what's this post about" sentence that tells the reader what they'll learn if they read on. 
+  - a clear "what's this post about" thesis sentence that tells the reader what they'll learn if they read on. 
   - a link to Glitch
   - keep it short!
 - Subheaders (H2s)
   - if it's a tutorial, these should be the steps, otherwise these should be the main points
-  - first sentence under subhead should introduce the section
+  - first sentence under subhead should introduce the section, connect it to main thesis
   - we love links, make sure to link whenever possible
   - no sub subheads (like h3s, h4s)
 - Conclusion
+ - A good conclusion should "conclude" the "what's this post about sentence". For example if the "what's this post about" sentence is "Learning how to automate email can make your life easier" it should conclude with a sentence about how the post did make the reader's life easier. 
  - A CTA (call to action) sentence like "remix this and tweet us what you made"
  - Glitch boilerplate (see section in appendix)
  
