@@ -70,6 +70,17 @@ Next we'll workshop Tweets and social media images. Feel free to leave this to u
 
 
 ## Appendix
+### Code Review
+Most Dev.to posts involve code in the form of:
+- Embedded Glitch apps
+- Code snippets in Markdown 
+
+We do not have a strict code review process or standards, but we like to see:
+- well-commented code
+- a README.md in all Glitch apps
+- files named in a way that will make sense I.E. "feedparser.js" rather than "file1.js"
+- a license (MIT for now, more info TBD)
+
 ### Joining the Dev.to Glitch org 
 To add posts to the Glitch org on Dev.to you'll need to join it. Sign up for the Dev.to account if you don't have one and DM Melissa on Slack to join. 
 
