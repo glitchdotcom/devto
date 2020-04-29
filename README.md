@@ -41,14 +41,14 @@ If you already have a process that works for you, go for it! Otherwise I strongl
 ### Drafting
 You're welcome to use whatever tools work for you. I strongly recommend using a tool like [Hemingway](http://www.hemingwayapp.com/), which encourages concise engaging writing. Make sure you follow the checklist in the Appendix.
 
-Submit drafts as Markdown via pull request at [devto-posts](https://github.com/glitchdotcom/devto-posts) and make sure it's [associated with the Clubhouse ticket](https://help.clubhouse.io/hc/en-us/articles/360023113972-How-do-I-associate-a-branch-to-a-Story-). For example my post about Testing I would create a new file called test.md, add my post draft, and create a branch. Then submit a pull request for that branch to master and in the description I would reference the Clubhouse story like `[ch1234]`. If you're new to GitHub, Melissa can help you with a personalized tutorial.
+Submit drafts as Markdown via pull request at 🔒[devto-posts](https://github.com/glitchdotcom/devto-posts)  and make sure it's [associated with the Clubhouse ticket](https://help.clubhouse.io/hc/en-us/articles/360023113972-How-do-I-associate-a-branch-to-a-Story-).. For example my post about Testing I would create a new file called test.md, add my post draft, and create a branch. Then submit a pull request for that branch to master. If you're new to GitHub, Melissa can help you with a personalized tutorial.
 
 At this point don't worry about embeds, pictures or any other formatting.
 
 After your draft is ready assign the PR to Melissa to review. 
 
 ### Automated feedback
-When you submit a pull request on [devto-posts](https://github.com/glitchdotcom/devto-posts) you'll get some automated checks via GitHub Actions. You can see the results in the "checks" area of the Pull Request.
+When you submit a pull request on 🔒[devto-posts](https://github.com/glitchdotcom/devto-posts) you'll get some automated checks via GitHub Actions. You can see the results in the "checks" area of the Pull Request.
 - [Vale](https://errata-ai.github.io/vale/) looks for common mistakes and gives some _optional_ writing advice. 
 - [Link Checker](https://github.com/marketplace/actions/link-checker) visits the links in your post to make sure they work. 
 
@@ -59,7 +59,7 @@ For the feedback process we'll give you big picture pointers on the structure an
 The editor may add a reviewer for highly technical subjects if they are outside their experitise.
 
 ### Copyediting
-At this stage, put your post into Dev.to and add any formatting and code blocks you'd like. Assign back to the editor. 
+At this stage, put your post into Dev.to in the Glitch org (see appendix) and add any formatting and code blocks you'd like. Assign back to the editor. 
 
 We'll add UTM params to your links, and add images if you haven't. We'll also update the post in the [devto-posts](https://github.com/glitchdotcom/devto-posts) repo to make sure the link checker runs.  
 
@@ -68,8 +68,20 @@ Next we'll workshop Tweets and social media images. Feel free to leave this to u
 
 
 ## Appendix
+### Code Review
+Most Dev.to posts involve code in the form of:
+- Embedded Glitch apps
+- Code snippets in Markdown 
+
+We do not have a strict code review process or standards, but we like to see:
+- well-commented code
+- a README.md in all Glitch apps
+- files named in a way that will make sense I.E. "feedparser.js" rather than "file1.js"
+- a license (MIT for now, more info TBD)
+
 ### Joining the Dev.to Glitch org 
-TBD
+To add posts to the Glitch org on Dev.to you'll need to join it. Sign up for the Dev.to account if you don't have one and DM Melissa on Slack to join. 
+
 ### Writing checklist
 - Introduction
   - a clear "what's this post about" sentence that tells the reader what they'll learn if they read on. 
@@ -83,6 +95,29 @@ TBD
 - Conclusion
  - A CTA (call to action) sentence like "remix this and tweet us what you made"
  - Glitch boilerplate (see section in appendix)
+ 
+ ### Publishing checklist
+ This publishing checklist is intended for use in pull requests
+```
+### Pre-publishing
+
+- [ ] Outline
+- [ ] Schedule on Shared Content Calendar
+- [ ] Feedback
+- [ ] Copy editing
+- [ ] Images
+- [ ] Tags
+- [ ] Add UTM tags to links
+- [ ] Post to the #editorial channel in Slack the day before publishing
+
+### Post-publishing
+- [ ] Schedule Tweet and notify #community
+- [ ] Post to #marketing-all and #social-content
+- [ ] Update Shared Content Calendar
+- [ ] Post to forum (optional)
+
+
+```
  
  ### Glitch boilerplate
  
