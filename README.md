@@ -98,6 +98,29 @@ To add posts to the Glitch org on Dev.to you'll need to join it. Sign up for the
  - A CTA (call to action) sentence like "remix this and tweet us what you made"
  - Glitch boilerplate (see section in appendix)
  
+ ### Publishing checklist
+ This publishing checklist is intended for use in pull requests
+```
+### Pre-publishing
+
+- [ ] Outline
+- [ ] Schedule on Shared Content Calendar
+- [ ] Feedback
+- [ ] Copy editing
+- [ ] Images
+- [ ] Tags
+- [ ] Add UTM tags to links
+- [ ] Post to the #editorial channel in Slack the day before publishing
+
+### Post-publishing
+- [ ] Schedule Tweet and notify #community
+- [ ] Post to #marketing-all and #social-content
+- [ ] Update Shared Content Calendar
+- [ ] Post to forum (optional)
+
+
+```
+ 
  ### Glitch boilerplate
  
 ```
