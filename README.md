@@ -24,48 +24,29 @@ Ideas<sub>1</sub>:
 - New Glitch features
 - If you had to make a choice about a tool or framework recently, how did you decide?
 
-## Team
-- Editor: Melissa McEwen
-- Copyeditors: Ryan Khosravi
-- Advisor: Margarita Noriega
-- Tech reviewers: members of the engineering team as needed
-
 ## Writing your post
 
-### Proposal
-Create a Clubhouse story using the Dev.to template. Assign to Melissa. We'll work with you on topic and due date. 
-
 ### Outline
-If you already have a process that works for you, go for it! Otherwise I strongly recommend writing a post outline and submitting it to Melissa for review. You can do this on the Clubhouse story. 
+If you already have a process that works for you, go for it! Otherwise I strongly recommend writing a post outline and submitting it to #editorial for review
 
 ### Drafting
-You're welcome to use whatever tools work for you. I strongly recommend using a tool like [Hemingway](http://www.hemingwayapp.com/), which encourages concise engaging writing. Make sure you follow the checklist in the Appendix.
+You're welcome to use whatever tools work for you. I strongly recommend using a tool like [Hemingway](http://www.hemingwayapp.com/) or [Vale](https://errata.ai/vale-server/), which can catch basic errors. See the Appendix for a helpful Writing checklist.
 
-Submit drafts as Markdown via pull request at 🔒[devto-posts](https://github.com/glitchdotcom/devto-posts)  and make sure it's [associated with the Clubhouse ticket](https://help.clubhouse.io/hc/en-us/articles/360023113972-How-do-I-associate-a-branch-to-a-Story-).. For example my post about Testing I would create a new file called test.md, add my post draft, and create a branch. Then submit a pull request for that branch to master. If you're new to GitHub, Melissa can help you with a personalized tutorial.
+Submit drafts as Markdown via pull request at 🔒[devto-posts](https://github.com/glitchdotcom/devto-posts). For example my post about Testing I would create a new file called test.md, add my post draft, and create a branch. Then submit a pull request for that branch to master. The [Pull Request template](https://github.com/glitchdotcom/devto-posts/blob/master/.github/PULL_REQUEST_TEMPLATE.md) has a checklist for the rest of the process.
 
 At this point don't worry about embeds, pictures or any other formatting.
 
-After your draft is ready assign the PR to Melissa to review. 
-
 ### Automated feedback
-When you submit a pull request on 🔒[devto-posts](https://github.com/glitchdotcom/devto-posts) you'll get some automated checks via GitHub Actions. You can see the results in the "checks" area of the Pull Request.
-- [Vale](https://errata-ai.github.io/vale/) looks for common mistakes and gives some _optional_ writing advice. 
-- [Link Checker](https://github.com/marketplace/actions/link-checker) visits the links in your post to make sure they work. 
+When you submit a pull request on 🔒[devto-posts](https://github.com/glitchdotcom/devto-posts) you'll get some automated checks via GitHub Actions. You can see the results in the "checks" area of the Pull Request.  Currently [Link Checker](https://github.com/marketplace/actions/link-checker) visits the links in your post to make sure they work. 
 
-### Feedback
-For the feedback process we'll give you big picture pointers on the structure and content of your piece. We will not directly edit your piece at this stage. After preparing feedback the editor will reassign the Pull Request and story to you. When you incorporate the feedback, please reassign to Melissa for review. 
+### Adding images/embeds and sharing with #editorial
+At this stage, put your post into Dev.to in the Glitch org (see appendix) and add any formatting, images, and code blocks you'd like. Dev.to will give you a helpful draft link which you should share to the #editorial channel on Slack.
 
-#### Technical Review 
-The editor may add a reviewer for highly technical subjects if they are outside their experitise.
+Make sure what's in Dev.to is synced with the Markdown file in the PR. 
 
-### Copyediting
-At this stage, put your post into Dev.to in the Glitch org (see appendix) and add any formatting and code blocks you'd like. Assign back to the editor. 
 
-We'll add UTM params to your links, and add images if you haven't. We'll also update the post in the [devto-posts](https://github.com/glitchdotcom/devto-posts) repo to make sure the link checker runs.  
-
-### Ready to post!
-Next we'll workshop Tweets and social media images. Feel free to leave this to us. When we publish we'll promote on our Dev Twitter and the homepage. 
-
+## Editing a post
+If you're asked to review a post, we recommend doing the "review" option on the GitHub pull request. Simple copy edits (spelling, grammar) can be done as simple edits to the MarkDown file. Larger feedback can be done as comments. For a helpful resource for editing posts see the "Writing checklist" in the Appendix. 
 
 ## Appendix
 ### Code Review
@@ -95,29 +76,7 @@ To add posts to the Glitch org on Dev.to you'll need to join it. Sign up for the
 - Conclusion
  - A CTA (call to action) sentence like "remix this and tweet us what you made"
  - Glitch boilerplate (see section in appendix)
- 
- ### Publishing checklist
- This publishing checklist is intended for use in pull requests
-```
-### Pre-publishing
 
-- [ ] Outline
-- [ ] Schedule on Shared Content Calendar
-- [ ] Feedback
-- [ ] Copy editing
-- [ ] Images
-- [ ] Tags
-- [ ] Add UTM tags to links
-- [ ] Post to the #editorial channel in Slack the day before publishing
-
-### Post-publishing
-- [ ] Schedule Tweet and notify #community
-- [ ] Post to #marketing-all and #social-content
-- [ ] Update Shared Content Calendar
-- [ ] Post to forum (optional)
-
-
-```
  
  ### Glitch boilerplate
  
